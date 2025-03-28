@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]!
+# 👋 Olá, eu sou André Junior de Souza!
 
 ### Desenvolvedor Full-Stack | Laravel • PHP • Vue.js • JavaScript
 
@@ -45,36 +45,9 @@
 
 ---
 
-## 🏆 **Projetos Destacados**
-
-### 🚀 [Sistema Completo Laravel + Vue](link-projeto)
-- Arquitetura MVC com Laravel 10
-- Frontend dinâmico com Vue 3 + Composition API
-- Integração com APIs de pagamento
-
-### 💼 [Dashboard Administrativo](link-projeto)
-- Painel com CRUD completo
-- Gráficos interativos com Chart.js
-- Autenticação JWT
-
-### 🔌 [API REST para E-commerce](link-projeto)
-- Desenvolvida em PHP puro
-- Documentação Swagger
-- Sistema de cache com Redis
-
----
-
-## 📈 **Histórico de Contribuições**
-
-![Snake animation](https://github.com/devkavod/devkavod/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📫 **Conecte-se Comigo**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/seunumerodetelefone)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/andr%C3%A9-junior-528058301/))
 
 ---
 
